@@ -1,4 +1,4 @@
-# 🛠️ Engineer | 🧑‍💻 Tester | 🌐 Creator
+# 🛠️ Engineer | 🔍 Tester | 🌐 Creator
 
 👋 Hi, I’m **Nithu Lakshmi** – a passionate **QA Engineer** with **2.1 years** of experience in **Manual and Automation Testing**! I specialize in enhancing software quality with tools like **Selenium**, **Appium**, and test frameworks such as **TestNG** and **Maven**. 
 
