@@ -65,7 +65,7 @@ Welcome to **WebStyleHub**! This is your one-stop destination to learn how to **
 
 👉 **Don’t miss out** – hit the subscribe button and join the **WebStyleHub** family today!
 
-🎥 **Subscribe to WebStyleHub on YouTube**: [WebStyleHub Channel](https://www.youtube.com/channel/UCxW_L25rk8qvLsZgBoOXTnQ)
+🎥 **Subscribe to WebStyleHub on YouTube**: [WebStyleHub Channel](https://www.youtube.com/@WebStyleHub)
 
 📧 **Email**: [webstylehub8@gmail.com](mailto:webstylehub8@gmail.com)
 
