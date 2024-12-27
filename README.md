@@ -1,52 +1,74 @@
-# Welcome to **WebStyleHub**🎨💻  
+# 🛠️ Engineer | 🧑‍💻 Tester | 🌐 Creator
 
-Hi there! 👋 Are you ready to take your web development skills to the next level? This repository is your gateway to my **YouTube Channel**, **[WebStyleHub](https://www.youtube.com/@WebStyleHub)**, where I share everything you need to design and develop stunning projects like a pro!
+👋 Hi, I’m **Nithu Lakshmi** – a passionate **QA Engineer** with **2.1 years** of experience in **Manual and Automation Testing**! I specialize in enhancing software quality with tools like **Selenium**, **Appium**, and test frameworks such as **TestNG** and **Maven**. 
 
----
+I’ve got a sharp eye for identifying issues and a proven track record of ensuring the highest software quality through **Smoke**, **Regression**, **Adhoc**, and **Exploratory Testing**. I’m all about collaboration and delivering high-quality software in every project!
 
-## 🚀 What You’ll Find Here  
-### Explore topics like:
-- 🖌️ **Portfolio Creation**: Learn how to build unique and visually appealing portfolios that stand out.  
-- 🌐 **Website Design**: Craft responsive and modern websites completely from scratch.  
-- 📊 **Dashboard Development**: Create functional and stylish user interfaces that are easy to use.  
-- 📱 **Mobile App UI Designs**: Get inspired by sleek and professional app designs.  
-- 🛠️ **And Many More**: Dive into a treasure trove of web design and development content tailored for YOU!  
-
-💡 **Each topic is carefully designed to help you master the art of web development, whether you’re a beginner or a pro!**
+### 🏢 My Career Journey:
+- **Aspire Systems Digital Pvt Ltd** – July 2022 to June 2024
+- **Orion Innovation** – November 2024 to Present
 
 ---
 
-## 🎥 Why Follow My Channel?  
-On **[WebStyleHub](https://www.youtube.com/@WebStyleHub)**, I bring:  
-- ✨ **Creative Ideas**: Level up your web design game with unique and innovative tips.  
-- 🎓 **Step-by-Step Tutorials**: From beginner to advanced, learn everything in an easy-to-follow format.  
-- 💡 **Inspiring Insights**: Empower yourself to turn your ideas into reality and build projects that stand out.
+## 💻 My Skills
 
-🌟 **Joining my channel means joining a growing community of learners and creators just like you. Let’s grow together!**
-
----
-
-## 🌟 Let’s Connect!  
-I’d love to hear from YOU! Let’s stay connected:  
-- [📺 Subscribe on YouTube](https://www.youtube.com/@WebStyleHub) for all the latest tutorials and ideas.  
-- ⭐ **Star this repository** to show your support and help others discover it.  
-- 🖼️ Got a cool design inspired by my videos? Share it and tag me for a chance to get featured!  
-- 📧 **Connect with me at:** webstylehub8@gmail.com  
+- 🧑‍💻 **Test Automation Frameworks**: Selenium, Appium, TestNG, Maven
+- 📊 **Automation Scripting**: Excel Sheets
+- 💡 **Programming Languages**: Java
+- 📝 **Manual Testing**: Test Case Design, Defect Tracking
+- 🌍 **Web Testing Tools**: Selenium WebDriver
+- 📱 **Mobile Testing Tools**: Appium
+- ⚡ **Parallel Execution & Cross-Browser Testing**
+- 🌐 **Postman API Fundamentals**
+- 🗄️ **SQL Server & JMeter**
+- 🏗️ **Page Object Model (POM)**
 
 ---
 
-## 💬 Got Feedback or Questions?  
-I’m here to help!  
-- 📧 **Email me at:** webstylehub8@gmail.com to share your suggestions or ask any questions.  
-- Connect with me in the comments section of my YouTube videos.  
+## 🏆 Projects I’ve Worked On
+
+1. **WideOrbit Traffic**: Contributed to test automation and ensured quality for a major traffic management project. 📡
+2. **KPMG**: Automated testing for global web applications, enhancing stability, and reliability. 📑
+3. **Qafox (Self Project)**: Developed and shared automation scripts to support the testing community. 🛒
 
 ---
 
-## ❤️ Support the Channel  
-Liking my videos and subscribing to my channel motivates me to create more valuable content for you. Let’s build, learn, and grow together!
+## 🤝 Let’s Connect!
+
+I’d love to connect! Whether you want to collaborate or chat about testing, feel free to reach out!
+
+- 💼 **LinkedIn**: [Nithu Lakshmi](https://www.linkedin.com/in/nithu-lakshmi-aaab54201/)
+- 🖥️ **GitHub**: [niths09](https://github.com/niths09)
+- 📧 **Email**: [nithulakshmi8@gmail.com](mailto:nithulakshmi8@gmail.com)
 
 ---
 
-## 👉 Don’t miss out 
-Hit the subscribe button and join the WebStyleHub family today!  
-[**WebStyleHub on YouTube**](https://www.youtube.com/@WebStyleHub)  
+## 🌐 WebStyleHub – Your Web Development Hub! 🖥️
+
+Welcome to **WebStyleHub**! This is your one-stop destination to learn how to **design and develop stunning projects** like a pro! 🌟 Whether you’re just starting or already a pro, my YouTube channel has something for everyone! 💡
+
+### 🚀 What You’ll Find Here:
+
+- 🎨 **Portfolio Creation**: Learn to build creative, eye-catching portfolios. ✨
+- 🌐 **Website Design**: Craft responsive, modern websites from scratch. 💻
+- 📊 **Dashboard Development**: Build functional, stylish dashboards. 📱
+- 🖌️ **Mobile App UI Designs**: Get inspired by sleek, professional designs. 📱
+- 💡 **And Much More**: Dive into a variety of web design and development topics. 🚀
+
+---
+
+### 🎥 Why Follow My Channel?
+
+- 💡 **Creative Ideas** to level up your web design skills.
+- 🎓 **Step-by-Step Tutorials** for all skill levels.
+- 🌱 **Inspiring Insights** to turn your ideas into reality.
+
+👉 **Don’t miss out** – hit the subscribe button and join the **WebStyleHub** family today!
+
+🎥 **Subscribe to WebStyleHub on YouTube**: [WebStyleHub Channel](https://www.youtube.com/channel/UCxW_L25rk8qvLsZgBoOXTnQ)
+
+📧 **Email**: [webstylehub8@gmail.com](mailto:webstylehub8@gmail.com)
+
+---
+
+Let’s build, learn, and grow together! 🚀💻
