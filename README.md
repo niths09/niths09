@@ -40,6 +40,7 @@ I’d love to connect! Whether you want to collaborate or chat about testing, fe
 - 💼 **LinkedIn**: [Nithu Lakshmi](https://www.linkedin.com/in/nithu-lakshmi-aaab54201/)
 - 🖥️ **GitHub**: [niths09](https://github.com/niths09)
 - 📧 **Email**: [nithulakshmi8@gmail.com](mailto:nithulakshmi8@gmail.com)
+- 🌐 **Website**: [Nithu's Portfolio](https://nithulakshmisoftwaretester.on.drv.tw/www.NithuPortfolio.com/)  
 
 ---
 
